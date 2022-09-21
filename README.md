@@ -37,9 +37,9 @@ To get more help on the Vite ReactTs use `https://vitejs.dev/guide/` page.
 Contributors names and contact info
 
  Guilherme Melo
- [@DomPizzie](https://www.linkedin.com/in/guilhermehmelo/)
+ [@LinkedIn](https://www.linkedin.com/in/guilhermehmelo/)
  
- Wellington Brito  
- [@DomPizzie](https://www.linkedin.com/in/wellington-brito-b632ab135/)
+ Wellington Brito
+ [@LinkedIn](https://www.linkedin.com/in/wellington-brito-b632ab135/)
 
 
