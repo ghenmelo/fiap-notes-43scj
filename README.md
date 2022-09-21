@@ -7,6 +7,18 @@ Simple project to create/edit notes using ReactTs, also being able to set and fi
 
 This project was generated with [Vite ReactTs](https://vitejs.dev/guide/)
 
+## Description
+
+To create new notes is really simple, just click on the "+" button, write a new name and flag the whether important or not. This will save a new note on a database.
+
+To delete a note you just need to click on the "trash" button. This will remove the note from the database.
+
+To edit a note, just click on the "pencil" button, a modal will open to change name and imporant flag, then just click save.
+
+To filter just imporant notes, click on the "!" button. Only the notes with the important flag will appears.
+
+To filter by name, write a name of the card that you want to filter. Only the cards with that name will appears on the list cards. 
+
 ## Getting Started
 
 ### Dependencies
