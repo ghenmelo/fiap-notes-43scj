@@ -48,10 +48,8 @@ To get more help on the Vite ReactTs use `https://vitejs.dev/guide/` page.
 
 Contributors names and contact info
 
- Guilherme Melo
- [@LinkedIn](https://www.linkedin.com/in/guilhermehmelo/)
+ [@GuilhermeMelo](https://www.linkedin.com/in/guilhermehmelo/)
  
- Wellington Brito
- [@LinkedIn](https://www.linkedin.com/in/wellington-brito-b632ab135/)
+ [@WellingtonBrito](https://www.linkedin.com/in/wellington-brito-b632ab135/)
 
 
