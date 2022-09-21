@@ -21,7 +21,7 @@ This project was generated with [Vite ReactTs](https://vitejs.dev/guide/)
 
 ### Executing program
 
-Run `npm run dev` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm run dev` for a dev server. Navigate to `http://localhost:3001/`. The app will automatically reload if you change any of the source files.
 
 
 ```
