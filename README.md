@@ -51,5 +51,7 @@ Contributors names and contact info
  [@GuilhermeMelo](https://www.linkedin.com/in/guilhermehmelo/)
  
  [@WellingtonBrito](https://www.linkedin.com/in/wellington-brito-b632ab135/)
+ 
+ [@GabrielTadachi](https://www.linkedin.com/in/gabriel-tadachi-bab329147/)
 
 
