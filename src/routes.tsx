@@ -34,10 +34,10 @@ function AppRoutes() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Login />} />
-        <Route element={<PrivateRoute authenticated={authenticated} />}>
+        <Route path="/" element={<Home />} />
+        {/* <Route element={<PrivateRoute authenticated={authenticated} />}>
           <Route path="home" element={<Home />} />
-        </Route>
+        </Route> */}
         <Route path="register" element={<Register />} />
       </Routes>
     </BrowserRouter>
