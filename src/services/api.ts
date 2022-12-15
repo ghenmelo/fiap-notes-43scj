@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: `https://fiap-notes-api-auth.herokuapp.com/`,
+  baseURL: `https://note-service-back-end.azurewebsites.net/`,
 });
 
 api.interceptors.request.use(async (config) => {
