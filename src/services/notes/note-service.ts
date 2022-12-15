@@ -3,8 +3,8 @@ import { api } from "../api";
 import { Note } from "./types";
 
 export const NotesService = {
-  getNotes: () => api.get<Note[]>("/notes"),
-  postNotes: (payload: FormValueState) => api.post<Note>("/notes", payload),
-  deleteNote: (payload: { id: number }) => api.delete(`/notes/${payload.id}`),
-  putNotes: (payload: FormValueState) => api.put<Note>(`/notes/${payload.id}`, payload),
+  getNotes: () => api.get<Note[]>("/"),
+  postNotes: (payload: FormValueState) => api.post<Note>("/", payload),
+  deleteNote: (payload: { id: number }) => api.delete(`/${payload.id}`),
+  putNotes: (payload: FormValueState) => api.put<Note>(`/${payload.id}`, payload),
 };
